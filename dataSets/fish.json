@@ -1,0 +1,20 @@
+{
+  "River": [
+    "American Eel",
+    "Carp",
+    "Black Sea Bass",
+    "Catfish"
+  ],
+  "Lake": [
+    "Bowfin",
+    "Smallmouth Bass",
+    "Lake Herring",
+    "Brown Trout"
+  ],
+  "Shore": [
+    "Atlantic Cod",
+    "Mahi Mahi",
+    "Blackfin Tuna",
+    "Monkfish"
+  ]
+}

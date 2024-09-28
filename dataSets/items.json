@@ -1,0 +1,198 @@
+{
+  "Aligator Gar": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Carp": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Black Sea Bass": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Catfish": {
+    "value": 200,
+    "category": "Fish"
+  },
+  "Bowfin": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Smallmouth Bass": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Lake Herring": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Brown Trout": {
+    "value": 200,
+    "category": "Fish"
+  },
+  "Atlantic Cod": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Mahi Mahi": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Blackfish Tuna": {
+    "value": 100,
+    "category": "Fish"
+  },
+  "Monkfish": {
+    "value": 200,
+    "category": "Fish"
+  },
+  "Log": {
+    "value": 200,
+    "category": "Resource"
+  },
+  "Stick": {
+    "value": 1,
+    "category": "Resource"
+  },
+  "Stone": {
+    "value": 100,
+    "category": "Resource"
+  },
+  "Coal": {
+    "value": 200,
+    "category": "Resource"
+  },
+  "Iron": {
+    "value": 500,
+    "category": "Resource"
+  },
+  "Gold": {
+    "value": 500,
+    "category": "Resource"
+  },
+  "Ruby": {
+    "value": 1000,
+    "category": "Resource"
+  },
+  "Quartz": {
+    "value": 1000,
+    "category": "Resource"
+  },
+  "Diamond": {
+    "value": 2000,
+    "category": "Resource"
+  },
+  "Emerald": {
+    "value": 2000,
+    "category": "Resource"
+  },
+  "Iridium": {
+    "value": 5000,
+    "category": "Resource"
+  },
+  "Apple": {
+    "value": 20,
+    "category": "Food"
+  },
+  "Banana": {
+    "value": 100,
+    "category": "Food"
+  },
+  "Mango": {
+    "value": 200,
+    "category": "Food"
+  },
+  "Deer": {
+    "value": 200,
+    "category": "Food"
+  },
+  "Boar": {
+    "value": 200,
+    "category": "Food"
+  },
+  "Duck": {
+    "value": 200,
+    "category": "Food"
+  },
+  "Bear": {
+    "value": 400,
+    "category": "Food"
+  },
+  "Wolf": {
+    "value": 400,
+    "category": "Food"
+  },
+  "Moose": {
+    "value": 400,
+    "category": "Food"
+  },
+  "Apple Seed": {
+    "value": 5,
+    "category": "Seed"
+  },
+  "Banana Seed": {
+    "value": 10,
+    "category": "Seed"
+  },
+  "Mango Seed": {
+    "value": 50,
+    "category": "Seed"
+  },
+  "Fishing Rod": {
+    "value": 1000,
+    "category": "Tool"
+  },
+  "Axe": {
+    "value": 1000,
+    "category": "Tool"
+  },
+  "Pickaxe": {
+    "value": 1000,
+    "category": "Tool"
+  },
+  "Rifle": {
+    "value": 1000,
+    "category": "Tool"
+  },
+  "Stone Sword": {
+    "value": 1000,
+    "category": "Combat"
+  },
+  "Diamond Sword": {
+    "value": 2000,
+    "category": "Combat"
+  },
+  "Iridium Sword": {
+    "value": 5000,
+    "category": "Combat"
+  },
+  "Iron Armor": {
+    "value": 2000,
+    "category": "Combat"
+  },
+  "Diamond Armor": {
+    "value": 5000,
+    "category": "Combat"
+  },
+  "Iridium Armor": {
+    "value": 10000,
+    "category": "Combat"
+  },
+  "Slimeball": {
+    "value": 100,
+    "category": "Mob Drops"
+  },
+  "Rotten Flesh": {
+    "value": 500,
+    "category": "Mob Drops"
+  },
+  "Dragon Scales": {
+    "value": 20000,
+    "category": "Mob Drops"
+  },
+  "Rainbow Crystal": {
+    "value": 100000,
+    "category": "Mob Drops"
+  }
+}

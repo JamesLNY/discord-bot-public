@@ -1,0 +1,22 @@
+{
+  "Fishing Rod": {
+    "quantity": 1,
+    "value": 1200
+  },
+  "Rifle": {
+    "quantity": 1,
+    "value": 1200
+  },
+  "Axe": {
+    "quantity": 1,
+    "value": 1200
+  },
+  "Pickaxe": {
+    "quantity": 1,
+    "value": 1200
+  },
+  "Rainbow Crystal": {
+    "quantity": 1,
+    "value": 1000000
+  }
+}

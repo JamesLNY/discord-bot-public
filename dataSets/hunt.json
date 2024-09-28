@@ -1,0 +1,15 @@
+{
+  "Common": [
+    "Deer",
+    "Boar",
+    "Rabbit"
+  ],
+  "Rare": [
+    "Wolf",
+    "Bear",
+    "Moose"
+  ],
+  "Legendary": [
+    "Rainbow Crystal"
+  ]
+}

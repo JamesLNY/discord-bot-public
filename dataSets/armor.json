@@ -1,0 +1,32 @@
+{
+  "Stone Sword": {
+    "Attack": 10,
+    "stat": "Attack",
+    "type": "Weapon"
+  },
+  "Diamond Sword": {
+    "Attack": 50,
+    "stat": "Attack",
+    "type": "Weapon"
+  },
+  "Iridium Sword": {
+    "Attack": 100,
+    "stat": "Attack",
+    "type": "Weapon"
+  },
+  "Iron Armor": {
+    "Defense": 10,
+    "stat": "Defense",
+    "type": "Armor"
+  },
+  "Diamond Armor": {
+    "Defense": 50,
+    "stat": "Defense",
+    "type": "Armor"
+  },
+  "Iridium Armor": {
+    "Defense": 100,
+    "stat": "Defense",
+    "type": "Armor"
+  }
+}
