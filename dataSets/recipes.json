@@ -1,0 +1,104 @@
+{
+  "tools": {
+    "Axe": {
+      "level": 0,
+      "quantity": 1,
+      "ingredients": {
+        "Stick": 1,
+        "Stone": 3
+      }
+    },
+    "Pickaxe": {
+      "level": 0,
+      "quantity": 1,
+      "ingredients": {
+        "Stick": 1,
+        "Stone": 3
+      }
+    }
+  },
+  "resources": {
+    "Stick": {
+      "level": 0,
+      "quantity": 50,
+      "ingredients": {
+        "Log": 1
+      }
+    }
+  },
+  "seeds": {
+    "Apple Seed": {
+      "level": 0,
+      "quantity": 3,
+      "ingredients":  {
+        "Apple": 1
+      }
+    },
+    "Banana Seed": {
+      "level": 0,
+      "quantity": 2,
+      "ingredients":  {
+        "Banana": 1
+      }
+    },
+    "Mango Seed": {
+      "level": 0,
+      "quantity": 1,
+      "ingredients":  {
+        "Mango": 1
+      }
+    }
+  },
+  "combat": {
+    "Stone Sword": {
+      "level": 0,
+      "quantity": 1,
+      "ingredients": {
+        "Stick": 1,
+        "Stone": 2
+      }
+    },
+    "Diamond Sword": {
+      "level": 50,
+      "quantity": 1,
+      "ingredients": {
+        "Stick": 1,
+        "Diamond": 5,
+        "Coal": 10
+      }
+    },
+    "Iridum Sword": {
+      "level": 100,
+      "quantity": 1,
+      "ingredients": {
+        "Stick": 1,
+        "Iridium": 10,
+        "Coal": 100
+      }
+    },
+    "Iron Armor": {
+      "level": 5,
+      "quantity": 1,
+      "ingredients": {
+        "Iron": 10,
+        "Coal": 20
+      }
+    },
+    "Diamond Armor": {
+      "level": 50,
+      "quantity": 1,
+      "ingredients": {
+        "Diamond": 10,
+        "Coal": 200
+      }
+    },
+    "Iridium Armor": {
+      "level": 100,
+      "quantity": 1,
+      "ingredients": {
+        "Iridium": 10,
+        "Coal": 500
+      }
+    }
+  }
+}

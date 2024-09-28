@@ -1,0 +1,17 @@
+{
+  "Common": [
+    "Apple",
+    "Banana",
+    "Stone",
+    "Stick"
+  ],
+  "Rare": [
+    "Fishing Rod",
+    "Mango",
+    "Rifle",
+    "Axe"
+  ],
+  "Legendary": [
+    "Rainbow Crystal"
+  ]
+}

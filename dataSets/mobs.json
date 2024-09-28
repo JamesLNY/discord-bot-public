@@ -1,0 +1,35 @@
+{
+  "easy": [
+    {
+      "name": "Slime",
+      "stats": {
+        "Health": 100,
+        "Defense": 0,
+        "Attack": 30
+      },
+      "loot": ["Slimeball"]
+    }
+  ],
+  "moderate": [
+    {
+      "name": "Zombie",
+      "stats": {
+        "Health": 500,
+        "Defense": 2,
+        "Attack": 20
+      },
+      "loot": ["Rotten Flesh"]
+    }
+  ],
+  "hard": [
+    {
+      "name": "Dragon",
+      "stats": {
+        "Health": 10000,
+        "Defense": 200,
+        "Attack": 500
+      },
+      "loot": ["Dragon Scales", "Rainbow Crystal"]
+    }
+  ]
+}

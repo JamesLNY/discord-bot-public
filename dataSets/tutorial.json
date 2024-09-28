@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Introduction",
+    "description": "Welcome to the Psyduck bot! This is simply a pet project of mine but it has decently fleshed out systems. The following pages will show you the basic features of the bot."
+  },
+  {
+    "title": "Leveling Tutorial",
+    "description": "You gain random amounts of XP from running commands. After obtaining 100 XP, you level up. Each level provides additional rewards, detailed below. The maximum level is 100. You can view your levels via /profile.",
+    "fields": [
+      {
+        "name": "Fishing",
+        "value": "Decreases the chance of your fishing rod breaking"
+      },
+      {
+        "name": "Gathering",
+        "value": "Increases the chance of getting rare items"
+      },
+      {
+        "name": "Hunting",
+        "value": "Increases the chance of getting rare items and decreases the chance of your rifle breaking"
+      },
+      {
+        "name": "Mining",
+        "value": "Unlocks additional ores every 20 levels"
+      },
+      {
+        "name": "Chopping",
+        "value": "Increases the amount of logs you get from each chop"
+      },
+      {
+        "name": "Trading",
+        "value": "Increases the sell value of goods"
+      },
+      {
+        "name": "Crafting",
+        "value": "Unlocks additional recipes"
+      }
+    ]
+  },
+  {
+    "title": "Combat Tutorial",
+    "description": "After obtaining enough materials, you are able to craft (or buy) weapons and armor. These can be equiped using /equip and are viewed on your profile. There are three main stats that impact combat, which are detailed below. Your stats also increase with each level, regardless of category. You can enter a combat with a random monster via /combat. There are no penalties for losing",
+    "fields": [
+      {
+        "name": "Health",
+        "value": "Decreases each turn based on the enemy's attack and your defense. When it reaches 0, you lose the combat"
+      },
+      {
+        "name": "Defense",
+        "value": "Reduces the amount of health you lose from each attack"
+      },
+      {
+        "name": "Attack",
+        "value": "Increases the damage you do"
+      }
+    ]
+  },
+  {
+    "title": "Traveling Tutorial",
+    "description": "You can travel to different locations using /map, which determines the interactions you can have.",
+    "fields": [
+      {
+        "name": "Shore, Lake, River",
+        "value": "Allows you to catch different types of fish"
+      },
+      {
+        "name": "River, Forest, Plains",
+        "value": "Allows you to hunt"
+      },
+      {
+        "name": "Forest",
+        "value": "Allows you to chop trees"
+      },
+      {
+        "name": "Mountain",
+        "value": "Allows you to mine"
+      }
+    ]
+  },
+  {
+    "title": "Prestige Tutorial",
+    "description": "Prestiging is the ultimate goal of this bot. It resets all of your levels, clears your inventory, etc. In exchange, you get a prestige point that can be viewed on the second page of your profile. In order to prestige, you must have a global level of 100 and get 10 Rainbow Crystals. Have fun figuring out all of their sources!"
+  }
+]

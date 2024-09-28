@@ -1,0 +1,20 @@
+{
+  "Apple Seed": {
+    "yield": "Apple",
+    "quantity": 2,
+    "time": 3600,
+    "level": 0
+  },
+  "Banana Seed": {
+    "yield": "Banana",
+    "quantity": 10,
+    "time": 7200,
+    "level": 0
+  },
+  "Mango Seed": {
+    "yield": "Apple",
+    "quantity": 10,
+    "time": 36000,
+    "level": 0
+  }
+}
